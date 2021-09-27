@@ -16,7 +16,7 @@
         <h1>Meus Dados</h1>
         <h3>Nome: Leandro Kepe de Souza Pinto</h3>
         <h3>RA:1290482013026</h3>
-        <h3>Link perfil do Github: <a href="https://github.com/LeandroKepe16">https://github.com/LeandroKepe16</a></h3>
+        <h3>Link perfil do Github: <a href="https://github.com/LeandroKepe16/Tarefa-7.1">https://github.com/LeandroKepe16/Tarefa-7.1</a></h3>
         
     </body>
 </html>
